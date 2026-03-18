@@ -1,4 +1,4 @@
-# Deep Learning with Tensorflow 
+# Deep Learning with Tensorflow (Python)
 
 This repository contains deep learning concepts, implementations, and projects for learning and practice.
 
